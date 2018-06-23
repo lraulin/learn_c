@@ -16,7 +16,6 @@
 (P) Complete curses interface
 (P) Make a clone of the Convict Conditioning app
 (P) Complete GTD CLI app
-(S) Father's Day due:2018-06-17
 (S) VA Appointment in Charlottesville due:2018-06-21T15:30:00-04:00
 (S) Doit.im Expires (Renews?) $2 due:2018-06-28
 (S) Need Adderall Refill due:2018-07-02
@@ -26,6 +25,7 @@
 (S) Navient Payment Due $171.69 due:2018-07-26
 (S) Sane Box $7 Autorenew due:2018-08-06
 (S) Curiosity Stream Autorenew $2.99 due:2018-08-09
+(S) Navient Payment Due $171.69 due:2018-08-26
 (W) toothbrush heads from mom or dad
 (W) PenFed to get fraud form
 (W) 
@@ -47,6 +47,12 @@
 (Z) watch video on jumprope workout
 (Z) learn lisp
 (Z) 
+learn express
+learn sass
+make resume video
+check out web dev position congressional budget office 18-32 announcement number
+add ability to drag and drop scores to swap
+make YouTube resume/introduction
 https://www.meetup.com/React-MD/events/251424132/?rv=ea1&_xtd=gatlbWFpbF9jbGlja9oAJDc2N2U2YzQxLWI1NzItNDAyNS1hNWU0LWM5Y2M5NzU5ZWE0Mg&_cookie-check=1h7caPysS1dBZG1Q
 convict conditioning app clone
-hey I should do some stuffi
+fix filepath
